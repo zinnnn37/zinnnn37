@@ -8,7 +8,7 @@
 
 ### 🌱 Currently Learning
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zinnnn37&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zinnnn37&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&width=400" alt="GitHub Stats" />
 
 <br/>
 
