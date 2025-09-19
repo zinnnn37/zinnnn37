@@ -8,7 +8,7 @@
 
 ### 🌱 Currently Learning
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zinnnn37&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&width=400" alt="GitHub Stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinnnn37&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" alt="GitHub Langs" />
 
 <br/>
 
@@ -24,14 +24,13 @@
 
 <p align="center">
 <a href="https://solved.ac/zinnnn0750"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zinnnn0750" alt="Solved.ac Badge" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinnnn37&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" alt="GitHub Langs" />
 </p>
 
 <br/>
 
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-athl7jp1w-zinnnn37s-projects.vercel.app/?user=zinnnn37&theme=tokyonight&hide_border=true&border_radius=10&date_format=%5BY.%5Dn.j&card_width=450" alt="GitHub Streak" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=zinnnn37&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&width=400" alt="GitHub Stats"/>
 </p>
 
 <br/><br/>
