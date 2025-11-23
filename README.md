@@ -26,10 +26,10 @@
 <br/>
 
 ## 활동
-### :basecamp: 42Seoul 본과정 수료<br/>
+### :basecamp: 42Seoul(7기) 본과정 수료<br/>
 2022.07. ~ 2024.04.<br/><br/>
 
-### :basecamp: 삼성청년SW·AI아카데미 진행 중<br/>
+### :basecamp: 삼성청년SW·AI아카데미(13기) 진행 중<br/>
 2025.01. ~ 
 
 <br/>
