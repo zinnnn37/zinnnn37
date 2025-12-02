@@ -34,18 +34,28 @@
 
 ##
 
-<br/><br/><br/>
-
-<p align="center">
-<a href="https://solved.ac/zinnnn0750"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zinnnn0750" alt="Solved.ac Badge" /></a>
-</p>
-
 <br/>
 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-athl7jp1w-zinnnn37s-projects.vercel.app/?user=zinnnn37&theme=tokyonight&hide_border=true&border_radius=10&date_format=%5BY.%5Dn.j&card_width=450" alt="GitHub Streak" /></a>
-<img src="https://github-readme-stats.vercel.app/api?username=zinnnn37&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&width=400" alt="GitHub Stats"/>
-</p>
+<details>
+  <summary><b>Baekjoon Tier</b></summary>
+  <div markdown="1">
+    <a href="https://solved.ac/zinnnn0750"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zinnnn0750" alt="Solved.ac Badge" /></a>
+  </div>
+</details>
+
+<details>
+  <summary><b>GitHub Streak</b></summary>
+  <div markdown="1">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-athl7jp1w-zinnnn37s-projects.vercel.app/?user=zinnnn37&theme=tokyonight&hide_border=true&border_radius=10&date_format=%5BY.%5Dn.j&card_width=450" alt="GitHub Streak" /></a>
+  </div>
+</details>
+
+<details>
+  <summary><b>GitHub Stat</b></summary>
+  <div markdown="1">
+    <img src="https://github-readme-stats-eta-lyart-17.vercel.app/api?username=zinnnn37&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&width=400" alt="GitHub Stats"/>
+  </div>
+</details>
 
 <br/><br/>
 
