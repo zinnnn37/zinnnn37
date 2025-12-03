@@ -23,12 +23,37 @@
 
 ## 활동
 ### :basecamp: 42Seoul(7기) 본과정 수료<br/>
-2022.07. ~ 2024.04.<br/><br/>
+2022.07. ~ 2024.04.<br/>
 
-### :basecamp: 삼성청년SW·AI아카데미(13기) 진행 중<br/>
-2025.01. ~ 
+#### ft_oop(2024.02 ~ 2024.04) [🔗]([https://github.com/zinnnn37/LogLens](https://github.com/orgs/ft-oop/repositories))
+> VanillaJS로 SPA 웹 사이트 만들기
 
 <br/>
+
+### :basecamp: 삼성청년SW·AI아카데미(13기) 수료<br/>
+2025.01 ~ 22025.12
+
+#### LogLens(2025.10 ~ 2025.11) [🔗](https://github.com/zinnnn37/LogLens)
+> 프론트-백 통합 로그 수집 및 분석 서비스
+🏆 삼성청년SW·AI 자율 프로젝트 우수상 수상
+
+<br/>
+
+#### 지킴앤하이드(2025.08~2025.09)
+> AI 기반 텍스트/이미지 필터링 크롬 확장프로그램
+
+<br/>
+
+#### Pitch:It(2025.07 ~ 2025.08)
+> WebRTC 화상 회의 기반 PT면접 연습 서비스
+
+<br/><br/>
+
+### 📚 알고리즘 스터디<br/>
+[Season 1](https://github.com/SSAFY13th-algorithm/Algorithm-study-1)<br/>
+[Season 2](https://github.com/AlgorithmWithGod/Algorithm) (Private)<br/>
+
+<br/><br/>
 
 ##
 
