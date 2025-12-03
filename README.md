@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi👋+This+is+MINJIN!;Welcome+to+my+profile👾&center=true" alt="Typing SVG"/>
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 
 ### 🌱 Currently Learning
 
@@ -53,7 +53,7 @@
 [Season 1](https://github.com/SSAFY13th-algorithm/Algorithm-study-1)<br/>
 [Season 2](https://github.com/AlgorithmWithGod/Algorithm) (Private)<br/>
 
-<br/><br/>
+<br/>
 
 ##
 
