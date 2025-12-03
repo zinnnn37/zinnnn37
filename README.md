@@ -8,8 +8,6 @@
 
 ### 🌱 Currently Learning
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinnnn37&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" alt="GitHub Langs" />
-
 <br/>
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
@@ -36,24 +34,25 @@
 
 <br/>
 
-<details>
+<details open>
   <summary><b>Baekjoon Tier</b></summary>
   <div markdown="1">
     <a href="https://solved.ac/zinnnn0750"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zinnnn0750" alt="Solved.ac Badge" /></a>
   </div>
 </details>
 
-<details>
+<details open>
   <summary><b>GitHub Streak</b></summary>
   <div markdown="1">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-athl7jp1w-zinnnn37s-projects.vercel.app/?user=zinnnn37&theme=tokyonight&hide_border=true&border_radius=10&date_format=%5BY.%5Dn.j&card_width=450" alt="GitHub Streak" /></a>
   </div>
 </details>
 
-<details>
+<details open>
   <summary><b>GitHub Stat</b></summary>
   <div markdown="1">
-    <img src="https://github-readme-stats-eta-lyart-17.vercel.app/api?username=zinnnn37&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&width=400" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats-eta-lyart-17.vercel.app/api?username=zinnnn37&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats-eta-lyart-17.vercel.app/api/top-langs/?username=zinnnn37&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" width="355" alt="GitHub Langs" />
   </div>
 </details>
 
