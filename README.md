@@ -4,7 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi👋+This+is+MINJIN!;Welcome+to+my+profile👾&center=true" alt="Typing SVG"/>
 </div>
 
-<br/><br/>
 
 ### 🌱 Currently Learning
 
