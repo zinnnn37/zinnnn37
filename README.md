@@ -66,7 +66,7 @@
 <details open>
   <summary><b>Baekjoon Tier</b></summary>
   <div markdown="1">
-    <a href="https://solved.ac/zinnnn0750"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zinnnn0750" alt="Solved.ac Badge" /></a>
+    <a href="https://solved.ac/profile/zinnnn0750"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zinnnn0750" alt="Solved.ac Badge" /></a>
   </div>
 </details>
 
