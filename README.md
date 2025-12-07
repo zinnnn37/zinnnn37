@@ -51,8 +51,11 @@
 <br/><br/>
 
 ### 📚 알고리즘 스터디<br/>
-[Season 1](https://github.com/SSAFY13th-algorithm/Algorithm-study-1)<br/>
-[Season 2](https://github.com/AlgorithmWithGod/Algorithm) (Private)<br/>
+#### Season 1 [🔗](https://github.com/SSAFY13th-algorithm/Algorithm-study-1)
+매주 백준 문제 5개 이상 풀이<br/>
+
+#### Season 2 [🔗](https://github.com/AlgorithmWithGod/Algorithm)
+1일 1문제 이상 풀이(골드 5 이상)<br />
 
 <br/>
 
